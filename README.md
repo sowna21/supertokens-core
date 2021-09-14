@@ -26,11 +26,11 @@ If you like our project, please :star2: this repository! For feedback, feel free
 ## 🚀 What is SuperTokens?
 SuperTokens is an open core alternative to proprietary login providers like Auth0 or AWS Cognito. We are
  different because we offer:
-- Open source: SuperTokens can be used for free, forever, with no limits on the number of users.
-- An on-premises deployment so that you control 100% of your user data, using your own database.
-- An end to end solution with login, sign ups, user and session management, without all the complexities of OAuth protocols.
-- Ease of implementation and higher security.
-- Extensibility: Anyone can contribute and make SuperTokens better!
+- **Open source:** SuperTokens can be used for free, forever, with no limits on the number of users.
+- **On-premises deployment** so that you control 100% of your user data in your own database.
+- **End-to-end solution** for login, sign-ups, user and session management without the complexities of OAuth protocols.
+- **Ease of implementation** while implementing the **best-in-class security standards**.
+- **Extensibility:*** to scale to your product's needs while anyone can contribute to making SuperTokens better!
 
 ### Philosophy
 Authentication directly affects UX, dev experience and security of any app. We believe that
