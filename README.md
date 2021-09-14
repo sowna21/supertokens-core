@@ -30,7 +30,7 @@ SuperTokens is an open core alternative to proprietary login providers like Auth
 - **On-premises deployment** so that you control 100% of your user data in your own database.
 - **End-to-end solution** for login, sign-ups, user and session management without the complexities of OAuth protocols.
 - **Ease of implementation** while implementing the **best-in-class security standards**.
-- **Extensibility:** to scale to your product's needs while anyone can contribute to making SuperTokens better!
+- **Extensibility** that helps scale based on your product's needs while anyone can contribute to SuperTokens' growth.
 
 ### Philosophy
 Authentication directly affects UX, dev experience and security of any app. We believe that
